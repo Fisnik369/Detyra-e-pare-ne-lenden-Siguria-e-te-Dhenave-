@@ -92,3 +92,23 @@ Rezulatatet e Kompajllimit:
 <img src = "Images/writeMessage1.jpg" width="900">
 <img src = "Images/writeMessage2.jpg" width="500">
 <img src = "Images/readMessage.jpg" width="900">
+
+# Faza e Trete e Projektit#
+
+
+Ne komanden create-user, per te krijuar perdorues te ri duhet te krijojme edhe nje password. Emri i perdoruesit dhe passwordi ruhen ne nje fajll, ku passwordi ruhet si salted hash password. Argumenti i pare eshte "create-user" dhe me pas argumenti i dyte nenkupton emrin e perdoruesit qe do ta krijojme, me pastaj, na kerkohet te krijojme passwordin e perdoruesit. Passwordi duhet te permbaje me shume se 6 karaktere dhe po ashtu duhet te kete numra ose karaktere speciale. Me komanden "delete-user", pervec celesit privat dhe publik te user-it, fshihen edhe emri dhe passwordi i user-it ne bazen e shenimeve.
+
+Rezultatet e kompajllimit:
+
+<img src = "Images/create-user.jpg" width="900">
+<img src = "Images/KaraktereSpeciale.jpg" width="900">
+<img src = "Images/NukPerputhen.jpg" width="900">
+<img src = "Images/NumraDheShkronja.jpg" width="900">
+<img src = "Images/6karaktere.jpg" width="900">
+
+
+
+
+
+
+
