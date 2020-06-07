@@ -100,11 +100,11 @@ Ne komanden create-user, per te krijuar perdorues te ri duhet te krijojme edhe n
 
 Rezultatet e kompajllimit:
 
-<img src = "Images/create-user.jpg" width="900">
-<img src = "Images/KaraktereSpeciale.jpg" width="900">
-<img src = "Images/NukPerputhen.jpg" width="900">
-<img src = "Images/NumraDheShkronja.jpg" width="900">
-<img src = "Images/6karaktere.jpg" width="900">
+<img src = "Images/create-user.png" width="500">
+<img src = "Images/KaraktereSpeciale.jpg" width="500">
+<img src = "Images/NukPerputhen.jpg" width="500">
+<img src = "Images/NumraDheShkronja.jpg" width="500">
+<img src = "Images/6karaktere.png" width="500">
 
 
 
